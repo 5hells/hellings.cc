@@ -1,0 +1,17 @@
+{
+  "name": "hellingscc-statagent",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "octokit": "^5.0.5",
+    "undici": "^7.18.1"
+  }
+}

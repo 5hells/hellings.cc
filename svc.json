@@ -1,0 +1,17 @@
+[
+    {
+        "SVC_NAME": "home assistant",
+        "SVC_DOMAIN": "ha.hellings.cc",
+        "SVC_DESC": "home automation platform"
+    },
+    {
+        "SVC_NAME": "music assistant",
+        "SVC_DOMAIN": "ma.hellings.cc",
+        "SVC_DESC": "music streaming server"
+    },
+    {
+        "SVC_NAME": "stephen",
+        "SVC_DOMAIN": "stephen.hellings.cc",
+        "SVC_DESC": "personal website for stephen"
+    }
+]
